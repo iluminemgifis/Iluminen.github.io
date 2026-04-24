@@ -35,7 +35,9 @@ const FOOTER_HTML = `
     <div>
       <h4>Patrocinadores</h4>
       <div style="display:flex;align-items:center;gap:10px">
-        <img src="assets/LOGO-UPV.png" alt="UPV" style="width:160px;height:auto">
+        <a href="https://www.upv.es" target="_blank" rel="noopener">
+          <img src="assets/LOGO-UPV.png" alt="UPV" style="width:160px;height:auto;cursor:pointer">
+        </a>
         <img src="assets/GIFIS.png"    alt="GIFIS" style="width:120px;height:auto">
       </div>
     </div>
