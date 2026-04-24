@@ -25,7 +25,8 @@ const FOOTER_HTML = `
     <div>
       <h4>Contacto</h4>
       <ul>
-        <li>✉ IluminemGIFIS@gmail.com</li>
+        <li><a href="mailto:IluminemGIFIS@gmail.com" class="footer-link">✉ IluminemGIFIS@gmail.com</a></li>
+        <li><a href="https://www.instagram.com/iluminem" target="_blank" rel="noopener" class="footer-link">📸 @iluminem</a></li>
         <li>📍 Valencia, España</li>
       </ul>
       <p style="font-size:12px">© 2026 Iluminem. Todos los derechos reservados.</p>
